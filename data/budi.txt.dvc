@@ -1,0 +1,5 @@
+outs:
+- md5: a22ff0ac205e9cd2d6fa6ffa11fac511
+  size: 14
+  hash: md5
+  path: budi.txt
